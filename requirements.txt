@@ -159,7 +159,6 @@ tqdm==4.66.5
 trio==0.26.2
 trio-websocket==0.11.1
 Twisted==24.3.0
-twisted-iocpsupport==1.0.4
 types-requests==2.32.0.20240712
 typing_extensions==4.12.2
 tzdata==2024.1
