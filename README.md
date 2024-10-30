@@ -71,7 +71,7 @@ Follow these instructions to set up and run the backend application on your loca
    ```
 2. **Navigate to the project directory**:
    ```bash
-   cd AI-healthcare-bot
+   cd be-aibot-healthcare
    ```
 3. **Set up a virtual environment**:
    ```bash
